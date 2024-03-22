@@ -1,5 +1,3 @@
-<%@ taglib prefix="fmt" uri="http://java.sun.com/jsp/jstl/fmt" %>
-
 <form action="action_page.php">
   <div class="container">
     <h1>New user Register for DevOps Learning</h1>
@@ -34,6 +32,7 @@
   </div>
 
    <h1> Thankyou, Happy Learning </h1>
-   <h2> By Aastha Chopra at 16:30, 22th March, 2024
-  
+   <h2> By Aastha Chopra at $LastChangedDate$
+$Rev$ 
+
 </form>
